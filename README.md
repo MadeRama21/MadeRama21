@@ -17,6 +17,14 @@
 - 👥 **Team Player**: I collaborate effectively with teams.  
 - 🎯 **Career Goal**: I aspire to have a stable career that supports my family and helps me achieve **financial freedom**.
 
+### GitHub Stats 📊
+<p align="left">
+<a href="https://github.com/maderama21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maderama21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maderama21&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ### Contact Me 📬
 - 📷 **Instagram**: [@maderama21](https://www.instagram.com/maderama21)  
 - 📩 **Email**: dwijayaaa21@gmail.com  
